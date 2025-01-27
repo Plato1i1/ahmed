@@ -1,7 +1,4 @@
 ---
-display_name: Playdate in Rust
-created_by: boozook
-image: playdate-rust.png
 items:
  - https://sdk.play.date/Inside%20Playdate%20with%20C.html
  - pd-rs/crankstart
@@ -19,5 +16,8 @@ items:
  - sayhiben/awesome-playdate
  - https://devforum.play.date
  - https://playdate-wiki.com/wiki/Developing_for_Playdate
+display_name: Playdate in Rust
+created_by: boozook
+image: playdate-rust.png
 ---
 Packages, tools, and examples that are helpful to make games for Playdate in the Rust programming language.
